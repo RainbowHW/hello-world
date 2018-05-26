@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+RainbowHW is here.
+Keeping slow is the secret of the success.
